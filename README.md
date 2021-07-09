@@ -4,11 +4,7 @@
 
 Baseline algorithms for coordination of service mesh consisting of multiple microservices. Includes Non-RL algorithms (Random Schedule, Shortest Path, & Load Balance).
 
-<p align="center">
-  <img src="docs/realvnf_logo.png" height="150" hspace="30"/>
-	<img src="docs/upb.png" width="200" hspace="30"/>
-	<img src="docs/huawei_horizontal.png" width="250" hspace="30"/>
-</p>
+
 
 ## Project structure
 
@@ -100,8 +96,3 @@ bash scripts/run_parallel
 ## Acknowledgement
 
 This project has received funding from German Federal Ministry of Education and Research ([BMBF](https://www.bmbf.de/)) through Software Campus grant 01IS17046 ([RealVNF](https://realvnf.github.io/)).
-
-<p align="center">
-	<img src="docs/software_campus.png" width="200"/>
-	<img src="docs/BMBF_sponsored_by.jpg" width="250"/>
-</p>
